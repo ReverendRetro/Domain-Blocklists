@@ -60,6 +60,7 @@
 ^https?://([A-Za-z0-9.-]*\.)?advertising\.com/
 ^https?://([A-Za-z0-9.-]*\.)?evidon\.com/
 ^https?://([A-Za-z0-9.-]*\.)?scorecardresearch\.com/
+^https?://([A-Za-z0-9.-]*\.)?smartadserver\.com/
 ^https?://([A-Za-z0-9.-]*\.)?flashtalking\.com/
 ^https?://([A-Za-z0-9.-]*\.)?turn\.com/
 ^https?://([A-Za-z0-9.-]*\.)?mathtag\.com/
