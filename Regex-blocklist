@@ -69,6 +69,7 @@
 ^https?://([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/
 ^https?://([A-Za-z0-9.-]*\.)?svr-algorix\.com/
+^https?://([A-Za-z0-9.-]*\.)?lortchlnk\.com/
 (ads|captive|logs).roku.com$
 (^|\.)buffpanel\.com$
 (^|\.)bugsnag\.com$
